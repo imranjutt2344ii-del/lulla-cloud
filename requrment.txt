@@ -1,3 +1,0 @@
-#requirment.txt
-google geminie
-streamlit
